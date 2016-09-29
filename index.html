@@ -17,6 +17,18 @@
 		Photo credits for this website's design: <http://cwperformingarts.info/sandvox_Blueprint_modern/Credits.rtf>
 		Licensing for this website's design:     <http://cwperformingarts.info/sandvox_Blueprint_modern/License.rtf>
 		-->
+		<script type='text/javascript'>
+		function fallback(av) {
+		 while (av.firstChild) {
+		  if (av.firstChild.nodeName == 'SOURCE') {
+		   av.removeChild(av.firstChild);
+		  } else {
+		   av.parentNode.insertBefore(av.firstChild, av);
+		  }
+		 }
+		 av.parentNode.removeChild(av);
+		}
+		</script>
 		
 	</head>
 	<body class="sandvox has-page-title allow-sidebar no-custom-banner home-page no-IR" id="cwperformingarts_info" >
@@ -65,7 +77,41 @@
 							<div class="article">
 								<div class="article-content">
 									<div class="RichTextElement">
-										<div><p>CWPA</p></div>
+										<div><p>CWPA</p>
+											<div class="first graphic-container wide center AudioElement">
+												<div class="graphic">
+													<div class="figure-content">
+														<!-- com.karelia.sandvox.SVAudio -->
+														<audio style="width:200px;" controls="controls" preload="none" id="audio">
+															<source src="_Media/03-spain.mp3" type="audio/mpeg" onerror="fallback(this.parentNode)" /><object id="player_mp3_maxi.swf" type="application/x-shockwave-flash" data="_Resources/player_mp3_maxi.swf" width="200" height="20" width="200">
+																<param name="movie" value="_Resources/player_mp3_maxi.swf" />
+																<param name="flashvars" value="mp3=_Media/03-spain.mp3&amp;width=200" />
+																<div style="width:200px;" id="unrecognized">
+																	<p>This browser cannot play the embedded audio file.</p>
+																</div>
+															</object>
+														</audio>
+														<script>
+														var audio = document.getElementById('audio');
+if (audio.canPlayType && audio.canPlayType('audio/mpeg')) {
+	// canPlayType is overoptimistic, so we have browser sniff.
+	var ua = navigator.userAgent;
+	var tridentMatch = ua.match(/Trident\/([0-9.]*)/);
+	var tridentVersion = tridentMatch ? parseFloat(tridentMatch[1]) : 0;
+	if (!(ua.indexOf('WebKit/') >= 0 || !ua.match(/MSIE [1-8]\./) || tridentVersion >= 7)){
+		// Only WebKit browsers and IE >9 can currently play this natively
+		fallback(audio);
+	}
+} else {
+	fallback(audio);
+}
+
+														</script>
+														<!-- /com.karelia.sandvox.SVAudio -->
+													</div>
+												</div>
+											</div><BR />
+										</div>
 									</div>
 								</div> <!-- /article-content -->
 								<div class="article-info">
