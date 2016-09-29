@@ -1,0 +1,107 @@
+html {
+  background-image: url(assets/images/modern/body-bg.png);
+}
+body {
+  background: none;
+}
+.pagelet-title,
+h1,
+h1 a,
+h1 a:hover,
+h2,
+a,
+#title,
+#sitemenu-content li,
+#sitemenu-content li a,
+#sitemenu-content li.currentPage span,
+#page-bottom div,
+#tagline,
+.collection-navigation a,
+.sandvox .annotation {
+  color: #4f71ae;
+}
+#sidebar a, #main a {
+  color: #4f71ae;
+}
+a:hover {
+  color: #4f71ae;
+}
+#page-bottom div {
+  font-weight: bold;
+}
+.surround .top,
+.surround .bottom,
+.surround .left,
+.surround .right {
+  background: #fff;
+  border-color: #a1c6ef;
+}
+.article, .pagelet-body {
+  border-color: #a1c6ef;
+}
+.sandvox .annotation {
+  background: transparent url(assets/images/modern/left-annotation-bg.png) no-repeat scroll right top;
+}
+#page-top {
+  background-image: url(assets/images/modern/center-header-bg.png);
+}
+.no-sidebar #page-top {
+  background: transparent url(assets/images/modern/center-header-no-sidebar-bg.png) no-repeat scroll 145px bottom;
+}
+.no-sidebar #page-bottom {
+  background: transparent url(assets/images/modern/center-footer-no-sidebar-bg.png) no-repeat scroll 167px -4px;
+}
+.no-sidebar #main {
+  background: transparent url(assets/images/modern/center-wrapper-bg.png) repeat-y -329px 680px;
+}
+#page-content {
+  background-image: url(assets/images/modern/center-wrapper-bg.png);
+}
+#page-bottom {
+  background-image: url(assets/images/modern/center-footer-bg.png);
+}
+#title {
+  background-image: url(assets/images/modern/title_bg.png);
+}
+#title h1 {
+  background-image: url(assets/images/modern/title_h1_bg.png);
+}
+#sitemenu {
+  background-image: url(assets/images/modern/sitemenu-container.png);
+}
+#sitemenu-content {
+  background-image: url(assets/images/modern/sitemenu.png);
+}
+.currentPage span {
+  background-image: url(assets/images/modern/sitemenu-container.png);
+}
+.currentPage span:after {
+  background-image: url(assets/images/modern/currentPage.png);
+}
+/* Left annotation replacements */
+.pagelet-title .in {
+  background-image: url(assets/images/modern/h2-annotation-bg.png);
+}
+.article {
+  -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  -webkit-border-radius: 0;
+}
+.pagelet-body {
+  -webkit-border-radius: 0;
+}
+h2 .in {
+  background-image: url(assets/images/modern/h2-annotation-bg.png);
+}
+@media screen and (max-width: 980px) {
+  #sitemenu-container {
+    background-image: url(assets/images/modern/sitemenu-container.png);
+  }
+}
+@media screen and (min-width: 1400px) {
+  h2 {
+    background-image: url(assets/images/modern/left-annotation-bg.png);
+  }
+  h2 .in {
+    background: none;
+  }
+}
