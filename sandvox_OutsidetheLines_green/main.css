@@ -88,6 +88,8 @@ body { word-wrap:break-word; }
 /* Make sure scaled-down images look good in IE */
 img { -ms-interpolation-mode: bicubic; }
 
+.photogrid-index-bottom { clear:left; }
+
 /* 
    css Copyright © 2011-2012 Karelia Software. All rights reserved.
    css released under Creative Commons License 
