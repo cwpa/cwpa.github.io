@@ -2418,3 +2418,17 @@ a.outerlink{text-decoration:none}
  font-style: italic;
  color: #221E19;
  word-wrap: break-word;}
+.linkStyle_585{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 30px; 
+ font-weight:normal; 
+ color: #123F00;
+ text-decoration: underline; 
+ /* 0 0 0 #008D00 #008D00 #011891 */
+ word-wrap: break-word;}
+.linkStyle_585:visited{color:#113E00; text-decoration:underline;}
+.linkStyle_585:hover{color:#011891; text-decoration:underline;}
+.Style588{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 30px; 
+ font-weight:normal; 
+ color: #1C5600;
+ word-wrap: break-word;}
