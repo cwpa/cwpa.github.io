@@ -2432,3 +2432,23 @@ a.outerlink{text-decoration:none}
  font-weight:normal; 
  color: #1C5600;
  word-wrap: break-word;}
+.Style589{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #221E19;
+ word-wrap: break-word;}
+.linkStyle_590{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #123F00;
+ text-decoration: underline; 
+ /* 0 0 0 #008D00 #113E00 #011891 */
+ word-wrap: break-word;}
+.linkStyle_590:visited{color:#113E00; text-decoration:underline;}
+.linkStyle_590:hover{color:#011891; text-decoration:underline;}
+.Style593{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 19px; 
+ font-weight:normal; 
+ margin:0;
+ color: #191919;
+ word-wrap: break-word;}
