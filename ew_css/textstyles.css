@@ -2152,7 +2152,7 @@ a.outerlink{text-decoration:none}
  text-decoration: underline; 
  /* 0 0 0 #008D00 #113E00 #011891 */
  word-wrap: break-word;}
-.linkStyle_478:visited{color:#113E00; text-decoration:underline;}
+.linkStyle_478:visited{color:#FF2500; text-decoration:underline;}
 .linkStyle_478:hover{color:#011891; text-decoration:underline;}
 .Style481{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
  font-size: 18px; 
@@ -2317,7 +2317,7 @@ a.outerlink{text-decoration:none}
  text-decoration: underline; 
  /* 0 0 0 #008D00 #113E00 #011891 */
  word-wrap: break-word;}
-.linkStyle_529:visited{color:#FF2500; text-decoration:underline;}
+.linkStyle_529:visited{color:#113E00; text-decoration:underline;}
 .linkStyle_529:hover{color:#011891; text-decoration:underline;}
 .linkStyle_532{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
  font-size: 24px; 
@@ -2554,3 +2554,14 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_591:visited{color:#FF2500; text-decoration:underline;}
 .linkStyle_591:hover{color:#011891; text-decoration:underline;}
+.para594{font-size: 0; text-align:left; padding-bottom:8px; margin-top:0px; padding-top:0px;}
+.Style595{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 18px; 
+ font-weight:normal; 
+ color: #F7C725;
+ word-wrap: break-word;}
+.Style596{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 18px; 
+ font-weight:700; 
+ color: #F7C725;
+ word-wrap: break-word;}
