@@ -350,11 +350,11 @@ $emailContent .= "Date submitted: " . date("Y/m/d h:i:sa") . " EST <br />" . $ne
 $emailContent .= "</p>" . $newline;
 $emailContent = str_replace("<!--placeholder-warnings-->","",$emailContent);
 $emailContent .= "</body></html>";
-$server  = "";
+$server  = "smtp.gmail.com";
 $port  = "465";
-$username  = "";
-$password  = "";
-$protocol = "None";
+$username  = "CWPACollective@gmail.com";
+$password  = "UEE0RXZlcnlvbmUh";
+$protocol = "ssl";
 if ($okToSend) { 
 if (!$useAPI) {
 $emailContent = str_replace("<submission_id>",$submission_id, $emailContent);
