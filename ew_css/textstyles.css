@@ -2630,3 +2630,12 @@ a.outerlink{text-decoration:none}
  font-style: italic;
  color: #FFC823;
  word-wrap: break-word;}
+.linkStyle_613{font-family:  'RobotoCondensed-Bold', 'Roboto Condensed' ;
+ font-size: 48px; 
+ font-weight:700; 
+ color: #FF2500;
+ text-decoration: underline; 
+ /* 0 0 0 #008D00 #FF2500 #011891 */
+ word-wrap: break-word;}
+.linkStyle_613:visited{color:#FF2500; text-decoration:underline;}
+.linkStyle_613:hover{color:#011891; text-decoration:underline;}
