@@ -2639,3 +2639,19 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_613:visited{color:#FF2500; text-decoration:underline;}
 .linkStyle_613:hover{color:#011891; text-decoration:underline;}
+.Style616{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ color: #FF7D78;
+ word-wrap: break-word;}
+.Style617{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ text-decoration: underline;
+ color: #FF7D78;
+ word-wrap: break-word;}
+.Style618{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #FF7D78;
+ word-wrap: break-word;}
