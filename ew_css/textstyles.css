@@ -2744,3 +2744,15 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_638:visited{color:#FF2500; text-decoration:underline;}
 .linkStyle_638:hover{color:#011891; text-decoration:underline;}
+.Style641{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 10px; 
+ font-weight:700; 
+ margin:0;
+ color: #F7C725;
+ word-wrap: break-word;}
+.Style642{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 10px; 
+ font-weight:normal; 
+ margin:0;
+ color: #F7C725;
+ word-wrap: break-word;}
