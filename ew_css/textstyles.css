@@ -3443,3 +3443,13 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_783:visited{color:#FF2500; text-decoration:underline;}
 .linkStyle_783:hover{color:#011891; text-decoration:underline;}
+.Style786{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:700; 
+ color: #74FDFF;
+ word-wrap: break-word;}
+.Style787{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ color: #74FDFF;
+ word-wrap: break-word;}
