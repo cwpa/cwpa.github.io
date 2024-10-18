@@ -3536,3 +3536,28 @@ a.outerlink{text-decoration:none}
  font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
+.Style623:visited{color:#FF2500; text-decoration:underline;}
+.Style623:hover{color:#011891; text-decoration:underline;}
+.Style813{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:normal; 
+ color: #F7C725;
+ word-wrap: break-word;}
+.Style814{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:normal; 
+ margin:0;
+ color: #F7C725;
+ word-wrap: break-word;}
+.Style815{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ margin:0;
+ color: #F7C725;
+ word-wrap: break-word;}
+.Style816{font-family:  'Optima-Bold', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 48px; 
+ font-weight:700; 
+ margin:0;
+ color: #FFFEFF;
+ word-wrap: break-word;}
