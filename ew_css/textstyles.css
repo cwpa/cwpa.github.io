@@ -3612,3 +3612,85 @@ a.outerlink{text-decoration:none}
  margin:0;
  color: #F8CA22;
  word-wrap: break-word;}
+.Style830{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ text-decoration: underline;
+ color: #FF2F92;
+ word-wrap: break-word;}
+.Style831{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ margin:0;
+ color: #FFFEFF;
+ word-wrap: break-word;}
+.Style832{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
+ font-style: italic;
+ color: #54FDFF;
+ word-wrap: break-word;}
+.Style833{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ margin:0;
+ color: #FFC823;
+ word-wrap: break-word;}
+.Style834{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ margin:0;
+ color: #FFC823;
+ word-wrap: break-word;}
+.Style835{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
+ font-style: italic;
+ color: #57FDFF;
+ word-wrap: break-word;}
+.Style836{font-family:  'Optima-Italic', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 36px; 
+ font-weight:700; 
+ font-style: italic;
+ color: #57FDFF;
+ word-wrap: break-word;}
+.Style837{font-family:  'Optima-BoldItalic', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ font-style: italic;
+ text-decoration: underline;
+ color: #FFC823;
+ word-wrap: break-word;}
+.Style838{font-family:  'Optima-BoldItalic', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ font-style: italic;
+ color: #FFC823;
+ word-wrap: break-word;}
+.Style839{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #FFC823;
+ word-wrap: break-word;}
+.Style840{font-family:  'Optima-Bold', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:700; 
+ margin:0;
+ color: #FFC823;
+ word-wrap: break-word;}
+.Style841{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ font-style: italic;
+ color: #57FDFF;
+ word-wrap: break-word;}
+.linkStyle_842{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 18px; 
+ font-weight:normal; 
+ font-style: italic;
+ color: #FF2500;
+ text-decoration: underline; 
+ /* 0 0 0 #008D00 #FF2500 #011891 */
+ word-wrap: break-word;}
+.linkStyle_842:visited{color:#FF2500; text-decoration:underline;}
+.linkStyle_842:hover{color:#011891; text-decoration:underline;}
