@@ -3728,3 +3728,45 @@ a.outerlink{text-decoration:none}
  text-decoration: underline;
  color: #3A90F0;
  word-wrap: break-word;}
+.Style854{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ color: #00C625;
+ word-wrap: break-word;}
+.Style855{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 20px; 
+ font-weight:normal; 
+ color: #00C627;
+ word-wrap: break-word;}
+.Style856{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 48px; 
+ font-weight:normal; 
+ color: #F8C928;
+ word-wrap: break-word;}
+.Style857{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ margin:0;
+ color: #F8C928;
+ word-wrap: break-word;}
+.Style858{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 18px; 
+ font-weight:normal; 
+ color: #F8C928;
+ word-wrap: break-word;}
+.linkStyle_859{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 14px; 
+ font-weight:normal; 
+ margin:0;
+ text-decoration: underline;
+ color: #419BFF;
+ word-wrap: break-word;}
+.linkStyle_859:visited{color:#FF2500; text-decoration:underline;}
+.linkStyle_859:hover{color:#011891; text-decoration:underline;}
+.Style862{font-family:  'Optima-Regular', 'Optima' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ font-style: italic;
+ margin:0;
+ color: #57FDFF;
+ word-wrap: break-word;}
